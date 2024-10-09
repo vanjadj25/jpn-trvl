@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="header">
+    <img [src]="imageMapping[day.code]" class="backgroundImg" />
+
+    <!-- Animated Avatar Image -->
+    <div [@slideIn] class="avatarContainer">
+      <img [src]="avatarMapping[day.code]" class="avatar" />
+    </div>
+  </div>
+
+  <div class="cardsContainer">
+    <h2 class="dayTitle">{{ day.name }}</h2>
+    <div *ngFor="let track of tracks" class="button" (click)="updateTrackInfo(track)">
+      <p class="buttonText">{{ track.name }}</p>
+    </div>
+  </div>
+
+  <img src="assets/images/badisalezi.png" class="badisa" />
+
+  <!-- AudioPlayer component should be created separately -->
+  <app-audio-player [trackName]="currentTrack" [trackTitle]="currentTrackTitle"></app-audio-player>
+</div>
