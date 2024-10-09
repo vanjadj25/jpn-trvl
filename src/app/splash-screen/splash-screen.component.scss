@@ -1,0 +1,13 @@
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.welcome-img {
+  max-width: 125%;
+  max-height: 100%;
+  object-fit: cover;
+}

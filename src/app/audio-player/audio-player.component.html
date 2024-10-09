@@ -1,0 +1,8 @@
+<div class="audio-player-container">
+  <div class="audio-player">
+    <button (click)="playOrPause()" class="play-btn">
+      <img [src]="isPlaying ? 'assets/images/pause-btn.png' : 'assets/images/play-btn.png'" class="play-btn-img" />
+    </button>
+    <p class="track-title">{{ trackTitle ? trackTitle : 'No track selected' }}</p>
+  </div>
+</div>
