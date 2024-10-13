@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "jpn-travel": {
+    "jpn-trvl": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/jpn-travel",
+            "outputPath": "dist/jpn-trvl",
+            "baseHref": "/jpn-trvl/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -66,10 +67,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "jpn-travel:build:production"
+              "buildTarget": "jpn-trvl:build:production"
             },
             "development": {
-              "buildTarget": "jpn-travel:build:development"
+              "buildTarget": "jpn-trvl:build:development"
             }
           },
           "defaultConfiguration": "development"
