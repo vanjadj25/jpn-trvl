@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1728829939364,
+  "timestamp": 1728830102809,
   "index": "/jpn-trvl/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/jpn-trvl/favicon.ico",
         "/jpn-trvl/index.html",
-        "/jpn-trvl/main-VA3OOBVU.js",
+        "/jpn-trvl/main-4AXS4OHA.js",
         "/jpn-trvl/manifest.webmanifest",
         "/jpn-trvl/polyfills-FFHMD2TL.js",
         "/jpn-trvl/styles-MI4D4VAU.css"
@@ -158,8 +158,8 @@
     "/jpn-trvl/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/jpn-trvl/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/jpn-trvl/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/jpn-trvl/index.html": "9149716c37d0719317550639c4cac3baf7add1d2",
-    "/jpn-trvl/main-VA3OOBVU.js": "72974b8332811e826a34910537639e3df842d96f",
+    "/jpn-trvl/index.html": "90e91239e447074f8e99410545c07ac842f799b2",
+    "/jpn-trvl/main-4AXS4OHA.js": "2b5852ce510088c92211ac8b93b3a1b55759d63f",
     "/jpn-trvl/manifest.webmanifest": "7e652ad787863301c5d18c94325c43c73a242b16",
     "/jpn-trvl/media/Fredoka-Bold-WEFZIMEZ.ttf": "49a29e15ae38e96548e70ae3f09c21da2ba7da65",
     "/jpn-trvl/media/Fredoka-Regular-D2CUXEAD.ttf": "753b91e83586d517b993f5ae5666cb4f2f29cbbe",
