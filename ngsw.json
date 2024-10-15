@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1729009657652,
+  "timestamp": 1729013781936,
   "index": "/jpn-trvl/index.html",
   "assetGroups": [
     {
@@ -108,7 +108,7 @@
         "/jpn-trvl/assets/images/tokyo5.webp",
         "/jpn-trvl/favicon.ico",
         "/jpn-trvl/index.html",
-        "/jpn-trvl/main-KH5HH2IK.js",
+        "/jpn-trvl/main-AQAUOBNF.js",
         "/jpn-trvl/manifest.webmanifest",
         "/jpn-trvl/polyfills-FFHMD2TL.js",
         "/jpn-trvl/styles-MI4D4VAU.css"
@@ -214,8 +214,8 @@
     "/jpn-trvl/assets/images/tokyo4.webp": "315df27b08538506eca895271d63834e05a9409c",
     "/jpn-trvl/assets/images/tokyo5.webp": "45ccad6c8099def430be734c7f6c1dffb006fc3b",
     "/jpn-trvl/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/jpn-trvl/index.html": "5cd79fdceceea5ebaf2b329bcb716afc4cfaf242",
-    "/jpn-trvl/main-KH5HH2IK.js": "f4fe522ccb481f296f113550ff07a79c90d8e753",
+    "/jpn-trvl/index.html": "052b0918fa3ca09d8d344f59c1fd56435effff01",
+    "/jpn-trvl/main-AQAUOBNF.js": "3d49987c3e43b99ffbfd65654166feeebb98d847",
     "/jpn-trvl/manifest.webmanifest": "e78db3bf2134566fbaabfa7ea06d8768ccf29e4a",
     "/jpn-trvl/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/jpn-trvl/styles-MI4D4VAU.css": "74c60e5533be49b8e00befc2e38755e92b816453"
